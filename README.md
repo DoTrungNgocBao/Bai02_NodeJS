@@ -51,16 +51,6 @@ http://localhost:3000
 - Trang HTML hiển thị họ tên sinh viên.
 - Chương trình đáp ứng yêu cầu bài thực hành.
 
-## 7. Hình ảnh minh chứng
-
-### Hình 1: Khởi động HTTP Server
-
-![Khởi động Server](IMAGES/1-server.png)
-
-### Hình 2: Kết quả trên trình duyệt
-
-![Kết quả localhost](IMAGES/2-localhost.png)
-
 ## 8. Kết luận
 
 Đã tạo thành công HTTP Server bằng Node.js thuần.
